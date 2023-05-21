@@ -8,5 +8,5 @@
 ![181a9617b70a0d03907d9ae454e96d71--diet-foods-health-foods](https://github.com/mohansharma077/Heart-Attack-Risk-Prediction/assets/104629829/42918ffd-58f4-4995-92ca-64536f733e9f)
 
 ![800px_COLOURBOX23725739](https://github.com/mohansharma077/Heart-Attack-Risk-Prediction/assets/104629829/9fa0646d-ed32-49d3-b70f-e162f004d6d3)
-![stock-vector-heart-attack-risk-factors-vector-logo-icon-design-infographic-550350925](https://github.com/mohansharma077/Heart-Attack-Risk-Prediction/assets/104629829/ed14a1e1-84fb-41ec-92e5-071a5047f311)
+
 
